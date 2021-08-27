@@ -8,3 +8,4 @@ The two files need be executed in terminal, with:
 ``` python peer2.py ```
 
 And then you must type the terminal text and type enter to send the message.
+For user, this app works as change message app, like basic Whatsapp
